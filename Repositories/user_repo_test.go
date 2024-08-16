@@ -2,8 +2,8 @@ package repositories
 
 import (
 	"context"
-	domain "testing_task-manager_api/Domain"
-	"testing_task-manager_api/config"
+	domain "task-manger-api_test/Domain"
+	"task-manger-api_test/config"
 
 	"github.com/stretchr/testify/suite"
 	"go.mongodb.org/mongo-driver/bson"

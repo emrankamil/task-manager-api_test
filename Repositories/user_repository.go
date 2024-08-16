@@ -4,8 +4,8 @@ import (
 	"context"
 	"errors"
 	"fmt"
-	domain "testing_task-manager_api/Domain"
-	infrastructure "testing_task-manager_api/Infrastructure"
+	domain "task-manger-api_test/Domain"
+	infrastructure "task-manger-api_test/Infrastructure"
 	"time"
 
 	"github.com/go-playground/validator/v10"

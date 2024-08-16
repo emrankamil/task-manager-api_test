@@ -3,11 +3,11 @@ package usecases
 import (
 	"context"
 	"log"
+	domain "task-manger-api_test/Domain"
+	"task-manger-api_test/Domain/mocks"
+	repositories "task-manger-api_test/Repositories"
+	"task-manger-api_test/config"
 	"testing"
-	domain "testing_task-manager_api/Domain"
-	repositories "testing_task-manager_api/Repositories"
-	"testing_task-manager_api/config"
-	"testing_task-manager_api/Domain/mocks"
 	"time"
 
 	"github.com/go-playground/validator/v10"

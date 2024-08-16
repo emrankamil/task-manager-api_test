@@ -3,9 +3,9 @@ package usecases
 import (
 	"context"
 	"errors"
+	domain "task-manger-api_test/Domain"
+	"task-manger-api_test/Domain/mocks"
 	"testing"
-	domain "testing_task-manager_api/Domain"
-	"testing_task-manager_api/Domain/mocks"
 
 	"github.com/stretchr/testify/mock"
 	"github.com/stretchr/testify/suite"

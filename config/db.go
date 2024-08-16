@@ -3,7 +3,7 @@ package config
 import (
 	"context"
 	"log"
-	domain "testing_task-manager_api/Domain"
+	domain "task-manger-api_test/Domain"
 
 	"go.mongodb.org/mongo-driver/mongo"
 	"go.mongodb.org/mongo-driver/mongo/options"

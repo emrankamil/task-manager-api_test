@@ -3,7 +3,7 @@ package config
 import (
 	"log"
 	"os"
-	domain "testing_task-manager_api/Domain"
+	domain "task-manger-api_test/Domain"
 
 	"github.com/joho/godotenv"
 )

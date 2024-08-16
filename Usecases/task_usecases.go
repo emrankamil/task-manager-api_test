@@ -2,7 +2,7 @@ package usecases
 
 import (
 	"context"
-	domain "testing_task-manager_api/Domain"
+	domain "task-manger-api_test/Domain"
 	"time"
 )
 

@@ -1,4 +1,4 @@
-module testing_task-manager_api
+module task-manger-api_test
 
 go 1.22.5
 

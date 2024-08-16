@@ -1,7 +1,7 @@
 package infrastructure
 
 import (
-	domain "testing_task-manager_api/Domain"
+	domain "task-manger-api_test/Domain"
 
 	"github.com/stretchr/testify/suite"
 	"go.mongodb.org/mongo-driver/bson/primitive"

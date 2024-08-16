@@ -1,11 +1,11 @@
 package routers
 
 import (
-	"testing_task-manager_api/Delivery/controllers"
-	domain "testing_task-manager_api/Domain"
-	infrastructure "testing_task-manager_api/Infrastructure"
-	repositories "testing_task-manager_api/Repositories"
-	usecases "testing_task-manager_api/Usecases"
+	"task-manger-api_test/Delivery/controllers"
+	domain "task-manger-api_test/Domain"
+	infrastructure "task-manger-api_test/Infrastructure"
+	repositories "task-manger-api_test/Repositories"
+	usecases "task-manger-api_test/Usecases"
 	"time"
 
 	"github.com/gin-gonic/gin"

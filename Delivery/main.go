@@ -4,8 +4,8 @@ import (
 	"context"
 	"log"
 	"os"
-	"testing_task-manager_api/Delivery/routers"
-	domain "testing_task-manager_api/Domain"
+	"task-manger-api_test/Delivery/routers"
+	domain "task-manger-api_test/Domain"
 	"time"
 
 	"github.com/gin-gonic/gin"

@@ -3,7 +3,7 @@ package controllers
 import (
 	"fmt"
 	"net/http"
-	domain "testing_task-manager_api/Domain"
+	domain "task-manger-api_test/Domain"
 
 	"github.com/gin-gonic/gin"
 )
